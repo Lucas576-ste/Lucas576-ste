@@ -10,7 +10,7 @@
 - 🌐 [Meu Portfólio](https://seusite.com)  
 - ✉️ lucasmenezes4741@gmail.com  
 
-👨‍💻 Sou um desenvolvedor back-end em início de carreira, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
+👨‍💻 Sou um desenvolvedor back-end, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
 🚀 Tenho experiência com **JavaScript, HTML e CSS**, e continuo aprimorando minhas habilidades em integração entre front-end e back-end.  
 📚 Estou aprendendo mais sobre **boas práticas de arquitetura**, **containers Docker** e **desenvolvimento escalável com Node.js**.  
 
