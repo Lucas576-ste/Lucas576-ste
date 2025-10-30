@@ -7,7 +7,7 @@
 
 📫 Me encontre em:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lluccas-menezes/)  
-- 🌐 [Meu Portfólio](https://seusite.com)  
+- 🌐 [Meu Portfólio](https://lucas576-ste.github.io/Portfolio-devclub/#projetos)
 - ✉️ lucasmenezes4741@gmail.com  
 
 👨‍💻 Sou um desenvolvedor back-end, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
@@ -19,8 +19,8 @@
 🚀 **Projetos que tenho orgulho:**  
 
 - [**MyPortfolio**](https://github.com/seuuser/myportfolio): Portfólio pessoal com animações suaves e design responsivo.  
-- [**RecipeApp**](https://github.com/seuuser/recipeapp): App de receitas com React + API externa.  
-- [**PixelPlayground**](https://github.com/seuuser/pixelplayground): Espaço onde brinco com microprojetos de UI e efeitos CSS.  
+- [**E-commerce**](https://lucas576-ste.github.io/Projeto-interface-ecommerce/): simula ainterface de um e-commerce e as ferramentas de busca.  
+- [**Conversor de Moedas**](https://lucas576-ste.github.io/conversor-de-moedas/): Converte qualquer moeda.  
 
 ---
 
