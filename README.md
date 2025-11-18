@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Menezes! 👋  
 
-### 💻 Desenvolvedor Back-end | Node.js · NVM · Docker  
+### 💻 Desenvolvedor Full-Stack | Node.js · NVM · Docker · Typescript · React Native · Tailwind · NestJs · JavaScript · CSS 
 
 🕹️ Testando:  
 > “O código é minha arte, o servidor é minha tela.”  
@@ -10,7 +10,7 @@
 - 🌐 [Meu Portfólio](https://lucas576-ste.github.io/Portfolio-devclub/#projetos)
 - ✉️ lucasmenezes4741@gmail.com  
 
-👨‍💻 Sou um desenvolvedor back-end, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker, Typescript, Nestjs, Postgresql e Postman**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
+👨‍💻 Sou um desenvolvedor Full-Stack, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker, Typescript, Nestjs, Postgresql e Postman**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
 🚀 Tenho experiência com **JavaScript, HTML e CSS**, e continuo aprimorando minhas habilidades em integração entre front-end e back-end.  
 📚 Estou aprendendo mais sobre **boas práticas de arquitetura**, **containers Docker** e **desenvolvimento escalável com Node.js**.  
 
