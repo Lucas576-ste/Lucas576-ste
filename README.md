@@ -10,9 +10,25 @@
 - 🌐 [Meu Portfólio](https://lucas576-ste.github.io/Portfolio-devclub/#projetos)
 - ✉️ lucasmenezes4741@gmail.com  
 
-👨‍💻 Sou um desenvolvedor Full-Stack, atualmente atuando em um projeto independente com **Node.js**, **NVM** e **Docker, Typescript, Nestjs, Postgresql e Postman**, focado na criação e manutenção de **APIs REST** e ambientes de desenvolvimento eficientes.  
-🚀 Tenho experiência com **JavaScript, HTML e CSS**, e continuo aprimorando minhas habilidades em integração entre front-end e back-end.  
-📚 Estou aprendendo mais sobre **boas práticas de arquitetura**, **containers Docker** e **desenvolvimento escalável com Node.js**.  
+## 👋 Sobre mim
+
+Sou Desenvolvedor Full-Stack com experiência prática no desenvolvimento de APIs RESTful e ambientes escaláveis.
+
+### 🚀 Tecnologias & Stacks  
+- Back-end: **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL**, **Docker**, **NVM**
+- Front-end: **JavaScript**, **HTML**, **CSS**
+- Ferramentas: **Git**, **GitHub**, **Postman**
+
+### 🛠️ Áreas de Atuação  
+- Criação, integração e manutenção de **APIs REST**
+- Orquestração de ambientes de desenvolvimento e produção usando **Docker**
+- Integração eficiente entre front-end e back-end
+- Experiência em boas práticas de versionamento de código (Git/GitHub) e documentação
+
+### 📖 Aprendizado Contínuo  
+- Aprofundando conhecimento em **arquitetura de software**
+- Melhoria contínua no uso de **containers Docker**
+- Buscando as melhores práticas para desenvolvimento escalável com **Node.js**
 
 ---
 
